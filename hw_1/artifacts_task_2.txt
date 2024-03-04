@@ -1,0 +1,39 @@
+olegzagorulko@MacBook-Pro-Oleg hw_1 % python3 task2.py file1.txt          
+Саша Маша Петя
+Даша Гриша Коля
+olegzagorulko@MacBook-Pro-Oleg hw_1 % python3 task2.py file1.txt file2.txt
+==> file1.txt <==
+Саша Маша Петя
+Даша Гриша Коля
+==> file2.txt <==
+Лес Пожар Дом
+Озеро Море Океан
+olegzagorulko@MacBook-Pro-Oleg hw_1 % python3 task2.py                    
+a
+b
+c
+d
+e
+f
+g
+h
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+ 
+jklmnopqrstuvwxyz%                                                                 
+olegzagorulko@MacBook-Pro-Oleg hw_1 % 

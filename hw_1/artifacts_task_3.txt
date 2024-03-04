@@ -1,0 +1,12 @@
+olegzagorulko@MacBook-Pro-Oleg hw_1 % python3 task3.py 
+Саша Маша Петя
+Даша Гриша Коля
+3D      6       56
+olegzagorulko@MacBook-Pro-Oleg hw_1 % python3 task3.py file1.txt          
+2       6       56      file1.txt
+olegzagorulko@MacBook-Pro-Oleg hw_1 % wc file1.txt              
+       2       6      56 file1.txt
+olegzagorulko@MacBook-Pro-Oleg hw_1 % python3 task3.py file1.txt file2.txt
+2       6       56      file1.txt
+2       6       55      file2.txt
+4       12      111     total

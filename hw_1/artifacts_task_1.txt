@@ -1,0 +1,14 @@
+gere 
+    1  gere
+rfg 
+    2  rfg
+fr
+    3  fr
+ gf
+    4  gf
+r 
+    5  r
+fr
+    6  fr
+ w
+    7  w
